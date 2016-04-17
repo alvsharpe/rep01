@@ -1,3 +1,3 @@
 # rep01
 Test repository
-This repository will be user for testing
+This repository will be used for testing.
